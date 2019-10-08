@@ -1,2 +1,2 @@
-#https://poojithamutteneni.github.io/myresume.github.io/
+#https://poojithamutteneni.github.io/resume/
 My Resume Website
