@@ -1,0 +1,108 @@
+.bgimg{
+  background-image: url(resumepic5.jpg);
+  background-size: 100% 100%;
+  background-attachment: fixed;
+  width:100%;
+  height:660px;
+}
+
+.hearderset{
+  padding-top: 250px;
+  box-sizing:border-box;
+}
+.hearderset h1{
+  font-size: 62px;
+  font-weight: bold;
+}
+.hearderset h2{
+  font-size: 42px;
+}
+
+
+.education{
+  padding:100px 0px 60px;
+  height:700px;
+}
+.education h1{
+  font-size: 50px;
+  font-weight: bold;
+}
+.rowsetting{
+  margin:80px 0px !important;
+}
+.imgsetting{
+  border-radius: 50%;
+  height:100px;
+  width:100px;
+}
+.fa-book{
+  margin-top: 20px;
+}
+
+* {box-sizing:border-box}
+
+
+.container {
+  width: 100%;
+
+}
+
+.skills {
+  text-align: right;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  color: white;
+}
+.skills h1{
+  font-size:50px;
+  font-weight:bold;
+  color: black;
+
+}
+
+
+.c {width: 90%; background-color: #4CAF50;}
+.html {width: 70%; background-color: #2196F3;}
+.css {width: 55%; background-color: #f44336;}
+.wordpress {width: 70%; background-color: #808080;}
+
+@media(min-width:992px){
+
+}
+@media(min-width:768px) and (max-width:991px){
+
+}
+@media(min-width:575px)and (max-width:767px){
+
+}
+@media(min-width:480px) and (max-width:574px){
+
+}
+@media(max-width:479px){
+  .hearderset h1{
+    font-size: 42px;
+    font-weight: bold;
+
+  }
+  .hearderset h2{
+    font-size: 22px;
+  }
+
+  .education{
+
+    height:1200px;
+  }
+
+}
+.left_align{
+  text-align: left;
+}
+.fa-phone{
+  float: left;
+  position: relative;
+}
+.fa-envelope-o{
+  float: left;
+  position:relative;
+
+}
